@@ -1,0 +1,31 @@
+This is README file for Algorithm PA#3
+Author: LiChun Lu B08901207
+Date: 2022/01/13
+=====
+SYNOPSIS:
+
+cb <input_file_name> <output_file_name>
+
+This program is design to find the minimum cost to break all cycles in a graph when given a directed or undirected graph with its node numbers and edges.
+=====
+DIRECTORY:
+
+bin/	  executable binary
+doc/	  report and requirements
+src/ 	  source C++ codes
+makefile
+README
+======
+HOW TO CIMPILE:
+
+Then compile the demo, simply follow the following steps
+	make
+======
+HOW TO RUN:
+
+	cd bin/
+	./cb <input_file_name> <output_file_name>
+
+======
+
+OTHER NOTICE:
